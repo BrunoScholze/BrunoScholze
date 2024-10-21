@@ -1,30 +1,27 @@
-  
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brunoScholze&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunoScholze&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
+## GitHub Overview
 
- 
-  <div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,angular,javascript,typescript,androidstudio,css,html,react,java,spring,next,azure,sass,nodejs,docker,figma,github,postman,npm,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brunoScholze&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunoScholze&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+| ----------- | ----------- |
+
+---
+
+## Languages and Tools
+
+<div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,vscode,angular,javascript,typescript,androidstudio,css,html,react,java,spring,next,azure,sass,nodejs,docker,figma,github,postman,npm,bootstrap,mongodb,postgres,discord" />
 </a>
-  <br />
+</div>
 
-  </div>
+---
 
-  <a href = "mailto:brunoscholze.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-scholze-ab076b208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## Contact
 
- 
-  
- 
-
-
-
-
-
-
- 
-  
-  
-
-  
+<div align="center">
+  <a href="mailto:brunoscholze.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/bruno-scholze-ab076b208/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
