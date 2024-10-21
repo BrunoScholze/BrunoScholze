@@ -2,6 +2,7 @@
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brunoScholze&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunoScholze&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoScholze)](https://github.com/anuraghazra/github-readme-stats)
 
  
   <div align="center" >
