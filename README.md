@@ -11,26 +11,47 @@
   <a href="https://skillicons.dev">
 
   <!-- Linguagens de Programação -->
-  <img src="https://skillicons.dev/icons?i=angular,javascript,typescript,java" />
-  <img src="https://skillicons.dev/icons?i=css,html,react,sass,nodejs" />
+  ### Linguagens de Programação
+  <img src="https://skillicons.dev/icons?i=angular,javascript,typescript,java,css,html,react,sass,nodejs" />
+  
+  <!-- Separador -->
+  <br/><br/>
 
   <!-- Bancos de Dados -->
+  ### Bancos de Dados
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 
+  <!-- Separador -->
+  <br/><br/>
+
   <!-- Ferramentas de Desenvolvimento -->
+  ### Ferramentas de Desenvolvimento
   <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,figma,git,github,npm" />
 
+  <!-- Separador -->
+  <br/><br/>
+
   <!-- Plataformas e Cloud -->
+  ### Plataformas e Cloud
   <img src="https://skillicons.dev/icons?i=azure,docker" />
 
+  <!-- Separador -->
+  <br/><br/>
+
   <!-- Frameworks e Outras Tecnologias -->
+  ### Frameworks e Outras Tecnologias
   <img src="https://skillicons.dev/icons?i=spring,bootstrap" />
 
+  <!-- Separador -->
+  <br/><br/>
+
   <!-- Comunicações -->
+  ### Comunicações
   <img src="https://skillicons.dev/icons?i=discord" />
 
   </a>
 </div>
+
 
 
 ---
