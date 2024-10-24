@@ -8,10 +8,30 @@
 ## Languages and Tools
 
 <div align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=angular,javascript,typescript,androidstudio,css,html,react,java,spring,vscode,azure,docker,sass,nodejs,figma,git,github,postman,npm,bootstrap,mongodb,postgres,mysql,discord" />
-</a>
+  <a href="https://skillicons.dev">
+
+  <!-- Linguagens de Programação -->
+  <img src="https://skillicons.dev/icons?i=angular,javascript,typescript,java" />
+  <img src="https://skillicons.dev/icons?i=css,html,react,sass,nodejs" />
+
+  <!-- Bancos de Dados -->
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+
+  <!-- Ferramentas de Desenvolvimento -->
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,figma,git,github,npm" />
+
+  <!-- Plataformas e Cloud -->
+  <img src="https://skillicons.dev/icons?i=azure,docker" />
+
+  <!-- Frameworks e Outras Tecnologias -->
+  <img src="https://skillicons.dev/icons?i=spring,bootstrap" />
+
+  <!-- Comunicações -->
+  <img src="https://skillicons.dev/icons?i=discord" />
+
+  </a>
 </div>
+
 
 ---
 
